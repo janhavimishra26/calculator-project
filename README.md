@@ -19,4 +19,18 @@ The program uses functions and a menu-driven loop to let the user perform multip
 
 ---
 
+## To-Do List Project
+
+This is a Python command-line to-do list app.
+
+Features:
+- Add tasks
+- View tasks
+- Remove tasks
+- Exit
+
+---
+
  Janhavi Mishra
+
+ 
